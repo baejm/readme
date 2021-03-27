@@ -1,3 +1,11 @@
+<div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                     
+
 # readme
 04_resident
 bbosong-portfolio 안녕하세요. 곧 3년차가 되는 Web front-end developer 배정민입니다. 아직 되지 않은.. TODO LIST ※ 작업이 되는 대로 하나하나 지울 것입니다.
