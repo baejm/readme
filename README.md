@@ -4,22 +4,16 @@
   
 
 # readme
-04_resident
-bbosong-portfolio 안녕하세요. 곧 3년차가 되는 Web front-end developer 배정민입니다. 아직 되지 않은.. TODO LIST ※ 작업이 되는 대로 하나하나 지울 것입니다.
 
-이력서 html로 만들어서 pdf download
-Keep-alive 고려
-사용한 플러그인 1 sass-loader
+안녕하세요. Web front-end developer 신입 배정민입니다. <br>
 
-node-sass
-VueMomentJS
-vue-waypoint
-vue-typed-js
-vue2-animate
-vee-validate
-intersection-observer (IE11지원을 위해..)
-vue-daum-map
-prettier
-file-saver
-es6-promise
-axios portfolio site (demo?) http://bbosongbbosong.com/#/
+※ 웨디자인-> 플래셔-> 퍼블리셔-> 프론트엔드-> (?)
+
+현실에 안주하지 않고 끊임없이 계속해서 발전해 나가고 있습니다.
+
+거리와 연봉보다는 일의 재미를 알고 항상 도전하고 변화하고 있습니다.
+
+1주일에 1%씩 70이 됐든 80이 됐든 계속해서 개선될 것입니다. ^^~
+
+
+
