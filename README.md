@@ -34,5 +34,4 @@
 
 
 ### 나만 쓰는 블로그
-![내 전용 블로그](https://user-images.githubusercontent.com/35725338/113387279-f3eaef80-93c6-11eb-9b77-49c8518ebbdc.gif)
-
+![Uploading baejm-블로그-s.gif…]()
