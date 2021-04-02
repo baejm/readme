@@ -32,7 +32,7 @@
 
 
 ### 하계테크노 타운 적용
-![하계테크노타운_git](https://user-images.githubusercontent.com/35725338/113389758-8a211480-93cb-11eb-9624-736cb8e4c9bb.gif)
+![하계테크노타운_git-s](https://user-images.githubusercontent.com/35725338/113389817-9f963e80-93cb-11eb-985e-b8931ec019ff.gif)
 
 
 ### 나만 쓰는 블로그
