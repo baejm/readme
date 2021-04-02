@@ -17,7 +17,7 @@
 
 포트폴리오: https://github.com/baejm
 
-### 나만의 블로그
+### 블로그
 ![baejm 블로그](https://user-images.githubusercontent.com/35725338/113386439-36abc800-93c5-11eb-842a-6b419758ebaa.gif)
 
 ### 입주사 관리 웹 프로그램
@@ -29,3 +29,8 @@
 
 ### 하계테크노 타운 적용
 ![하계테크노타운_git](https://user-images.githubusercontent.com/35725338/113386516-622eb280-93c5-11eb-9b44-4d69d767ea01.gif)
+
+
+### 나만 쓰는 블로그
+![내 전용 블로그](https://user-images.githubusercontent.com/35725338/113387279-f3eaef80-93c6-11eb-9b77-49c8518ebbdc.gif)
+
