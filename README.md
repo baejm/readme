@@ -20,7 +20,8 @@
 포트폴리오: https://github.com/baejm
 
 ### 블로그
-![baejm 블로그](https://user-images.githubusercontent.com/35725338/113386439-36abc800-93c5-11eb-842a-6b419758ebaa.gif)
+![내전용-블로그-s](https://user-images.githubusercontent.com/35725338/113388867-f26ef680-93c9-11eb-92d7-c50dfd810471.gif)
+
 
 ### 입주사 관리 웹 프로그램
 ![입주사 관리프로그램](https://user-images.githubusercontent.com/35725338/113386498-58a54a80-93c5-11eb-9d3d-7516993c4ddb.gif)
